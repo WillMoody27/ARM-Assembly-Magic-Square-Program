@@ -9,7 +9,7 @@ __Vectors
         EXPORT Reset_Handler
 Reset_Handler
 ;------------------CODE HERE--------------------
-;William Hellems-Moody , (Time Taken: 72 hours)
+;William Hellems-Moody
 ; Calculate the position of element in array using base_address + [i *#elements_per_row + j] * element_size
 
 MAIN  
